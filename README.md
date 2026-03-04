@@ -52,6 +52,16 @@ By building a custom pack using 18650 cells, the drill can continue to be used w
 - **Capacity**: depends on the cells used
 
 
+## BOM
+
+| Item | Quantity | Description | Example Link |
+|-----|-----|-----|-----|
+| 18650 Li-ion Cells | 6 | 18650 lithium-ion cells | already owned |
+| 3S 40A BMS | 1 | Battery Management System for 3S lithium pack providing overcharge, overdischarge, overcurrent protection and balancing | https://es.aliexpress.com/item/1005005676259423.html |
+| USB 3S Lithium Charger Module | 1 | USB-powered charger module for charging 3S lithium battery packs | https://es.aliexpress.com/item/1005005856945497.html |
+| Nickel Strip | 1 | Nickel strip for spot welding or connecting the 18650 cells together | https://es.aliexpress.com/item/1005011654088021.html |
+| Fishpaper | 1 | Insulation material to prevent short circuits between cells and electronics | https://es.aliexpress.com/item/1005006262885255.html |
+
 ## Electronics
 
 ### BMS
